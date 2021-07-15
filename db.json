@@ -10,7 +10,7 @@
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": "5.12"
     },
     {
       "id": 3,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cactus",
+      "image": "https://images.unsplash.com/photo-1554631221-f9603e6808be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FjdHVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+      "price": "20.25",
+      "id": 8
     }
   ]
 }
